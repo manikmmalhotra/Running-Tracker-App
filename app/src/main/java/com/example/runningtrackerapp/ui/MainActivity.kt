@@ -1,7 +1,8 @@
-package com.example.runningtrackerapp
+package com.example.runningtrackerapp.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.runningtrackerapp.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
